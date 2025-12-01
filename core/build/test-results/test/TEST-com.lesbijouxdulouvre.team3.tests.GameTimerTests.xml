@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lesbijouxdulouvre.team3.tests.GameTimerTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-21T13:30:29.971Z" hostname="renaud" time="0.02">
+  <properties/>
+  <testcase name="formattedTimeShouldBeCorrect()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.004"/>
+  <testcase name="timerShouldNotGoBelowZero()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.002"/>
+  <testcase name="timerShouldNotBeCriticalAbove30Seconds()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.001"/>
+  <testcase name="timerShouldTriggerAlarm()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.001"/>
+  <testcase name="timerShouldCountDown()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.002"/>
+  <testcase name="timerShouldBeCriticalBelow30Seconds()" classname="com.lesbijouxdulouvre.team3.tests.GameTimerTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

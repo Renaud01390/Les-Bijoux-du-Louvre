@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lesbijouxdulouvre.team3.tests.CollisionTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-21T13:30:29.939Z" hostname="renaud" time="0.027">
+  <properties/>
+  <testcase name="ellipsesShouldNotCollide()" classname="com.lesbijouxdulouvre.team3.tests.CollisionTests" time="0.016"/>
+  <testcase name="ellipsesShouldCollide()" classname="com.lesbijouxdulouvre.team3.tests.CollisionTests" time="0.002"/>
+  <testcase name="ellipseToPolygonShouldCreate20Vertices()" classname="com.lesbijouxdulouvre.team3.tests.CollisionTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
